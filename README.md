@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-[![ReallySnow's github stats](https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true&theme=radical&hide=prs&include_all_commits=true)](https://github.com/ReallySnow)
+[![ReallySnow's github stats](https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true)](https://github.com/ReallySnow)
