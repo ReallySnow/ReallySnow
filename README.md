@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
+- 🌱 I’m currently learning Android and flutter
+- 📫 How to reach me: reallysnow233@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallySnow)](https://github.com/ReallySnow/github-readme-stats)
 [![ReallySnow's github stats](https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true)](https://github.com/ReallySnow)
