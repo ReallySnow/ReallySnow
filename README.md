@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Android and flutter
 - 📫 How to reach me: reallysnow233@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallySnow&layout=compact)](https://github.com/ReallySnow/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallySnow&layout=compact&theme=buefy)](https://github.com/ReallySnow/github-readme-stats)
 
-[![ReallySnow's github stats](https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true)](https://github.com/ReallySnow)
+[![ReallySnow's github stats](https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true&theme=buefy)](https://github.com/ReallySnow)
