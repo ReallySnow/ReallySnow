@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-- 🌱 I’m currently learning Android and flutter
-- 📫 How to reach me: reallysnow233@gmail.com
+### Hi there 👋 I'm ReallySnow
+- 🌱 I’m learning Android and flutter
+- 📫 Email: reallysnow233@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallySnow&layout=compact&theme=buefy)](https://github.com/ReallySnow/github-readme-stats)
 
