@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm ReallySnow
 - 🌱 I’m learning Android and flutter
 - 📫 Email: reallysnow233@gmail.com
+- 🚀 Telegram: @reallysnow Telegram Group: [Here](https://t.me/ReallySnowROM) (CN)
+- ⛄ Genshin Impact: 102475335 (CN Server)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReallySnow&layout=compact&theme=buefy)](https://github.com/ReallySnow/github-readme-stats)
-
-[![ReallySnow's github stats](https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true&theme=buefy)](https://github.com/ReallySnow)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true&theme=buefy" />
