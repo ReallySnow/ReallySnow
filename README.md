@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true&theme=buefy" />
+
 ### Hi there 👋 I'm ReallySnow
 - 🌱 I’m learning Android and flutter
 - 📫 Email: reallysnow233@gmail.com
 - 🚀 Telegram: @reallysnow Telegram Group: [Here](https://t.me/ReallySnowROM) (CN)
 - ⛄ Genshin Impact: 102475335 (CN Server)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ReallySnow&show_icons=true&theme=buefy" />
