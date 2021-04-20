@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 📫 Email: reallysnow233@gmail.com
 - 🚀 Telegram: @reallysnow Telegram Group: [Here](https://t.me/ReallySnowROM) (CN)
 - ⛄ Genshin Impact: 102475335 (CN Server)
+- 🎈 Twitter: [ReallySnow](https://twitter.com/really_snow)
