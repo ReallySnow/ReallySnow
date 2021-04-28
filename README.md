@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-readme-stats.vercel.app/api?username=ReallySnow&include_all_commits=true&show_icons=true&hide_title=true&theme=buefy
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ReallySnow&include_all_commits=true&show_icons=true&hide_title=true&theme=buefy" />
 
 ### Hi there 👋 I'm ReallySnow
 - 🌱 I’m learning Android and flutter
