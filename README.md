@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ReallySnow&include_all_commits=true&show_icons=true&theme=buefy&count_private=true" />
 
 ### Hi there 👋 I'm ReallySnow
-- 🌱 I’m learning Android and flutter
+- 🌱 I’m learning Android ,Swift and flutter
 - 📫 Email: reallysnow233@gmail.com
 - 🚀 Telegram: @reallysnow Telegram Group: [Here](https://t.me/ReallySnowROM) (CN)
 - ⛄ Genshin Impact: 102475335 (CN Server)
