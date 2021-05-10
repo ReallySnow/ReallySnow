@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m learning Android ,Swift and flutter
 - 📫 Email: reallysnow233@gmail.com
 - ⛄ Genshin Impact: 102475335 (CN Server)
+
+
 [![OpenSUSE](https://img.shields.io/badge/Env-OpenSUSE-00E400?style=flat-square&logo=OpenSUSE&logoColor=FFFFFF&labelColor=00E400)](https://www.opensuse.org/)
 [![Windows](https://img.shields.io/badge/Env-Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Arch Linux](https://img.shields.io/badge/Env-Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
