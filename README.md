@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/Website-ReallySnow-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://reallysnow.top)
 
 ### Support
-[爱发电](https://afdian.net/@really_snow)
-[Pay Pal](paypal.me/ReallySnow233)
+* [爱发电](https://afdian.net/@really_snow)
+* [Pay Pal](https://paypal.me/ReallySnow233)
