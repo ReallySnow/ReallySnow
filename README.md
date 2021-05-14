@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ReallySnow&include_all_commits=true&show_icons=true&theme=buefy&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ReallySnow&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm ReallySnow
 - 🌱 I’m learning Android ,Swift and flutter
 - 📫 Email: reallysnow233@gmail.com
 - ⛄ Genshin Impact: 102475335 (CN Server)
-
+- 🥰 Like kawall things
 
 ### 💻 Environment
 [![OpenSUSE](https://img.shields.io/badge/Env-OpenSUSE-00E400?style=flat-square&logo=OpenSUSE&logoColor=FFFFFF&labelColor=00E400)](https://www.opensuse.org/)
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![Pixel 2 XL](https://img.shields.io/badge/Device-Pixel%202%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![iPhone 11](https://img.shields.io/badge/Device-iPhone%2011-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-11/specs/)
 [![Legion Y7000](https://img.shields.io/badge/Device-Legion%20Y7000-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
-[![MacMini](https://img.shields.io/badge/Device-MacMini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/mac-mini/)
+[![Mac Mini](https://img.shields.io/badge/Device-MacMini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/mac-mini/)
 [![Nintendo Switch](https://img.shields.io/badge/Device-Nintendo%20Switch-CF0000?style=flat-square&logo=nintendo-switch&logoColor=FFFFFF&labelColor=CF0000)](https://www.nintendo.com/switch/)
 
 ### 📫 Contact me
