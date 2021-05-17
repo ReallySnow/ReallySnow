@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm ReallySnow
 - 🌱 I’m learning Android ,Swift and flutter
 - 📫 Email: reallysnow233@gmail.com
-- ⛄ Genshin Impact: 102475335 (CN Server)
 - 🥰 Like kawall things
 
 ### 💻 Environment
@@ -46,3 +45,7 @@ Here are some ideas to get you started:
 ### 💰 Buy me a coffee
 * [爱发电](https://afdian.net/@really_snow)
 * [Pay Pal](https://paypal.me/ReallySnow233)
+
+
+### ⛄ Genshin Impact
+![ReallySnow](https://genshin-card.getloli.com/detail/30/77232331.png)
