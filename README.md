@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 
 ### ⛄ Genshin Impact
-![ReallySnow](https://genshin-card.getloli.com/detail/30/77232331.png)
+![ReallySnow](https://genshin-card.getloli.com/30/77232331.png)
