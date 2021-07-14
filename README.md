@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/twitter/follow/really_snow?style=flat-square&color=1da1f2&label=%40really_snow&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/really_snow)
 [![Telegram](https://img.shields.io/badge/%40reallysnow-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/reallysnow)
 [![Telegram ROM Channel](https://img.shields.io/badge/Channel-%40ROMReallySnow-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/ROMReallySnow)
-[![Telegram Channel (NFSW)](https://img.shields.io/badge/Channel-%40ReallySnowChannel-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/ReallySnowChannel)
-[![Telegram Group](https://img.shields.io/badge/Group-%40ReallySnowROM-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/ReallySnowROM)
+[![Telegram Channel (NFSW)](https://img.shields.io/badge/Channel-%40NekoH2-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/NekoH2)
+[![Telegram Group](https://img.shields.io/badge/Group-%40ReallySnowChat-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/ReallySnowChat)
 [![Website](https://img.shields.io/badge/Website-ReallySnow-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://reallysnow.top)
 
 ### 💰 Buy me a coffee
