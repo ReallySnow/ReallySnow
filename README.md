@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m learning Android ,Swift and flutter
 - 📫 Email: reallysnow233@gmail.com
 - 🥰 Like kawaii things
-- 💭 VRChat: ReallySnow
+- 🎮 VRChat: ReallySnow
+- 🎮 maimai: Arisu=lp
 
 ### 💻 Environment
 [![OpenSUSE](https://img.shields.io/badge/OpenSUSE-00E400?style=flat-square&logo=OpenSUSE&logoColor=FFFFFF&labelColor=00E400)](https://www.opensuse.org/)
